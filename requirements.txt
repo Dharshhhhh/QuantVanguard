@@ -1,0 +1,9 @@
+streamlit
+yfinance
+numpy
+pandas
+plotly
+scipy
+qiskit
+qiskit-optimization
+qiskit-algorithms
